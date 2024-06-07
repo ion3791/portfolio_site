@@ -4,12 +4,12 @@ This the website that showcases my portfolio. This project showcases a variety o
 - HTML
 - CSS
 
-File structure -
-/
-|_assets
-| |_css
-| | |_styles.css
-| |_images
-|   |_image files
-|_HTML files
+File structure -  
+/  
+|_assets  
+| |_css  
+| | |_styles.css  
+| |_images  
+|   |_image files  
+|_HTML files  
 |_README

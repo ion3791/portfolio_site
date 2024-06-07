@@ -5,11 +5,14 @@ This the website that showcases my portfolio. This project showcases a variety o
 - CSS
 
 File structure -  
+```
 /  
-|_assets  
-| |_css  
-| | |_styles.css  
-| |_images  
-|   |_image files  
-|_HTML files  
-|_README
+|  
+├──assets/  
+| └──────css/  
+| | └───────styles.css  
+| └──────images/  
+|   └──────────image files  
+└──HTML files  
+└──README.md
+```

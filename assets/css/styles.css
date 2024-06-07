@@ -1,0 +1,25 @@
+/* Styles for the email container and image  in blurb on home page*/
+.email-container {
+    font-size: 16px;
+    line-height: 24px; /* Adjust this value if needed */
+    text-align: center;
+}
+.email-container img {
+    max-height: 16px; /* Match the line height of the text */
+    vertical-align: middle; /* Align the image with the middle of the text */
+}
+
+/* Styles for the blurb on home page */
+.center-text {
+    text-align: center;
+}
+
+.large-heading {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 60px;
+}
+
+.small-text {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+}

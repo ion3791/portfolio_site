@@ -5,7 +5,7 @@
     text-align: center;
 }
 .email-container img {
-    max-height: 16px; /* Match the line height of the text */
+    max-height: 15px; /* Match the line height of the text */
     vertical-align: middle; /* Align the image with the middle of the text */
 }
 

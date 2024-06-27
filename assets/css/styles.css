@@ -1,4 +1,4 @@
-/* Styles for the email container and image  in blurb on home page*/
+/* Styles for the email container and image in blurb on home page*/
 .email-container {
     font-size: 16px;
     line-height: 24px; /* Adjust this value if needed */
@@ -7,6 +7,13 @@
 .email-container img {
     max-height: 15px; /* Match the line height of the text */
     vertical-align: middle; /* Align the image with the middle of the text */
+}
+
+/* Styles for social logos on home page */
+.icon {
+    width: 32px; /* Adjust the size as needed */
+    height: auto;
+    vertical-align: middle;
 }
 
 /* Styles for project buttons */

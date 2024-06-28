@@ -3,3 +3,16 @@ This the website that showcases my portfolio. This project showcases a variety o
 
 - HTML
 - CSS
+
+File structure -  
+```
+/  
+|  
+├──assets/  
+| └──────css/  
+| | └───────styles.css  
+| └──────images/  
+|   └──────────image files  
+└──HTML files  
+└──README.md
+```
